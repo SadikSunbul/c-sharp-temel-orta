@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{94CC91FE-ED8C-4C52-9733-2AF3352AA560}|Default">
+  <MonoDevelop.Ide.ItemProperties.xml__denemelri PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.xml__ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Abstract__nedir PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.matematıkDLLkullanımı FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MD5__şifrelemeTeknikkleri PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Jsonoku PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="xml_/Program.cs">
+    <Files>
+      <File FileName="JSON/Personel.cs" Line="1" Column="1" />
+      <File FileName="JSON/Program.cs" Line="23" Column="25" />
+      <File FileName="Jsonoku/Program.cs" Line="15" Column="2" />
+      <File FileName="Jsonoku/Xobject.cs" Line="1" Column="1" />
+      <File FileName="List_Generic/Müşteri.cs" Line="1" Column="1" />
+      <File FileName="matematıkDLLkullanımı/Program.cs" Line="1" Column="1" />
+      <File FileName="MatematikselişlemlerDll/işlemler.cs" Line="1" Column="1" />
+      <File FileName="MD5_şifrelemeTeknikkleri/Program.cs" Line="1" Column="1" />
+      <File FileName="MD5_şifrelemeTeknikkleri/SHA.cs" Line="1" Column="1" />
+      <File FileName="SHA256/Program.cs" Line="12" Column="1" />
+      <File FileName="xml_/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="İleri_Düzey_C_sharp_Udmy" expanded="True">
+            <Node name="JSON" expanded="True" />
+            <Node name="Jsonoku" expanded="True" />
+            <Node name="matematıkDLLkullanımı" expanded="True" />
+            <Node name="MatematikselişlemlerDll" expanded="True" />
+            <Node name="SHA256" expanded="True" />
+            <Node name="xml_" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Generic__Class PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Xml__Olusturma PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.JSON PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CSVVV PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SHA256 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/Program.cs" relfile="xmlolusturma2/Program.cs" line="47" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.xmlolusturma2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01.inceleme PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.List__Generic PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

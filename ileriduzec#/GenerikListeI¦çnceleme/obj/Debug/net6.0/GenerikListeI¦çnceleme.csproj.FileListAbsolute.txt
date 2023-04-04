@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/bin/Debug/net6.0/GenerikListeİnceleme
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/bin/Debug/net6.0/GenerikListeİnceleme.deps.json
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/bin/Debug/net6.0/GenerikListeİnceleme.runtimeconfig.json
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/bin/Debug/net6.0/GenerikListeİnceleme.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/bin/Debug/net6.0/GenerikListeİnceleme.pdb
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/obj/Debug/net6.0/GenerikListeİnceleme.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/obj/Debug/net6.0/GenerikListeİnceleme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/obj/Debug/net6.0/GenerikListeİnceleme.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/obj/Debug/net6.0/GenerikListeİnceleme.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/obj/Debug/net6.0/GenerikListeİnceleme.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/obj/Debug/net6.0/GenerikListeİnceleme.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/obj/Debug/net6.0/refint/GenerikListeİnceleme.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/obj/Debug/net6.0/GenerikListeİnceleme.pdb
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/obj/Debug/net6.0/GenerikListeİnceleme.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/GenerikListeİnceleme/obj/Debug/net6.0/ref/GenerikListeİnceleme.dll

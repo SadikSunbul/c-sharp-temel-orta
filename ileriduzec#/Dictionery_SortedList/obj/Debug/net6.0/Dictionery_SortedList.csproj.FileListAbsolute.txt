@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/obj/Debug/net6.0/Dictionery_SortedList.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/obj/Debug/net6.0/Dictionery_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/obj/Debug/net6.0/Dictionery_SortedList.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/obj/Debug/net6.0/Dictionery_SortedList.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/obj/Debug/net6.0/Dictionery_SortedList.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/bin/Debug/net6.0/Dictionery_SortedList
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/bin/Debug/net6.0/Dictionery_SortedList.deps.json
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/bin/Debug/net6.0/Dictionery_SortedList.runtimeconfig.json
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/bin/Debug/net6.0/Dictionery_SortedList.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/bin/Debug/net6.0/Dictionery_SortedList.pdb
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/obj/Debug/net6.0/Dictionery_SortedList.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/obj/Debug/net6.0/refint/Dictionery_SortedList.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/obj/Debug/net6.0/Dictionery_SortedList.pdb
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/obj/Debug/net6.0/Dictionery_SortedList.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Dictionery_SortedList/obj/Debug/net6.0/ref/Dictionery_SortedList.dll

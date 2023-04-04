@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/bin/Debug/net6.0/Partial_Class_Nedir
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/bin/Debug/net6.0/Partial_Class_Nedir.deps.json
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/bin/Debug/net6.0/Partial_Class_Nedir.runtimeconfig.json
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/bin/Debug/net6.0/Partial_Class_Nedir.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/bin/Debug/net6.0/Partial_Class_Nedir.pdb
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/obj/Debug/net6.0/Partial_Class_Nedir.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/obj/Debug/net6.0/Partial_Class_Nedir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/obj/Debug/net6.0/Partial_Class_Nedir.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/obj/Debug/net6.0/Partial_Class_Nedir.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/obj/Debug/net6.0/Partial_Class_Nedir.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/obj/Debug/net6.0/Partial_Class_Nedir.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/obj/Debug/net6.0/refint/Partial_Class_Nedir.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/obj/Debug/net6.0/Partial_Class_Nedir.pdb
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/obj/Debug/net6.0/Partial_Class_Nedir.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Partial_Class_Nedir/obj/Debug/net6.0/ref/Partial_Class_Nedir.dll

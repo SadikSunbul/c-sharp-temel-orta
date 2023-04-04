@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Üyeler>
+  <Üye>
+    <İsim>Sadık</İsim>
+    <Soyisim>Sünbül</Soyisim>
+    <Email>sadık.sunbul@gmail.com</Email>
+    <Şifre>12456789</Şifre>
+  </Üye>
+  <Öğrenci>
+    <İsim>taha</İsim>
+    <Email>q</Email>
+    <Soyisim>asf</Soyisim>
+    <Şifre>q</Şifre>
+    <Yaş>34</Yaş>
+  </Öğrenci>
+  <Öğrenci>
+    <İsim>ali</İsim>
+    <Email>w</Email>
+    <Soyisim>sunbul</Soyisim>
+    <Şifre>w</Şifre>
+    <Yaş>34</Yaş>
+  </Öğrenci>
+</Üyeler>

@@ -1,0 +1,12 @@
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/bin/Debug/net7.0/MatematikselişlemlerDll.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/bin/Debug/net7.0/MatematikselişlemlerDll.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/bin/Debug/net7.0/MatematikselişlemlerDll.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/obj/Debug/net7.0/MatematikselişlemlerDll.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/obj/Debug/net7.0/MatematikselişlemlerDll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/obj/Debug/net7.0/MatematikselişlemlerDll.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/obj/Debug/net7.0/MatematikselişlemlerDll.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/obj/Debug/net7.0/MatematikselişlemlerDll.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/obj/Debug/net7.0/MatematikselişlemlerDll.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/obj/Debug/net7.0/refint/MatematikselişlemlerDll.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/obj/Debug/net7.0/MatematikselişlemlerDll.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/MatematikselişlemlerDll/obj/Debug/net7.0/ref/MatematikselişlemlerDll.dll

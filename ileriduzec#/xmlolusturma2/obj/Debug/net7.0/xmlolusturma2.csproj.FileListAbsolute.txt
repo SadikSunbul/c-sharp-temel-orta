@@ -1,0 +1,17 @@
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/bin/Debug/net7.0/xmlolusturma2
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/bin/Debug/net7.0/xmlolusturma2.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/bin/Debug/net7.0/xmlolusturma2.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/bin/Debug/net7.0/xmlolusturma2.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/bin/Debug/net7.0/xmlolusturma2.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/bin/Debug/net7.0/FakeData.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/obj/Debug/net7.0/xmlolusturma2.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/obj/Debug/net7.0/xmlolusturma2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/obj/Debug/net7.0/xmlolusturma2.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/obj/Debug/net7.0/xmlolusturma2.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/obj/Debug/net7.0/xmlolusturma2.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/obj/Debug/net7.0/xmlolusturma2.csproj.CopyComplete
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/obj/Debug/net7.0/xmlolusturma2.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/obj/Debug/net7.0/refint/xmlolusturma2.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/obj/Debug/net7.0/xmlolusturma2.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/obj/Debug/net7.0/xmlolusturma2.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/xmlolusturma2/obj/Debug/net7.0/ref/xmlolusturma2.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LacrxTVPX91fYHMj9V0DUAWrjP8qVqPmusokzkJyGejXmXC2nuPkhKDTmohM2ZmwWbEkF5g4JzUmsS+04SalFw==",
+  "success": true,
+  "projectFilePath": "/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/Jsonoku.csproj",
+  "expectedPackageFiles": [
+    "/Users/sadiksunbul/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

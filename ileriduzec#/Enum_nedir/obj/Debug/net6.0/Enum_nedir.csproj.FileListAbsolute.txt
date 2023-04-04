@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/bin/Debug/net6.0/Enum_nedir
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/bin/Debug/net6.0/Enum_nedir.deps.json
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/bin/Debug/net6.0/Enum_nedir.runtimeconfig.json
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/bin/Debug/net6.0/Enum_nedir.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/bin/Debug/net6.0/Enum_nedir.pdb
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/obj/Debug/net6.0/Enum_nedir.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/obj/Debug/net6.0/Enum_nedir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/obj/Debug/net6.0/Enum_nedir.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/obj/Debug/net6.0/Enum_nedir.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/obj/Debug/net6.0/Enum_nedir.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/obj/Debug/net6.0/Enum_nedir.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/obj/Debug/net6.0/refint/Enum_nedir.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/obj/Debug/net6.0/Enum_nedir.pdb
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/obj/Debug/net6.0/Enum_nedir.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/Enum_nedir/obj/Debug/net6.0/ref/Enum_nedir.dll

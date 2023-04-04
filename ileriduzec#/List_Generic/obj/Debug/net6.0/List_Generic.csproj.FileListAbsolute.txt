@@ -1,0 +1,30 @@
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/bin/Debug/net6.0/List_Generic
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/bin/Debug/net6.0/List_Generic.deps.json
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/bin/Debug/net6.0/List_Generic.runtimeconfig.json
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/bin/Debug/net6.0/List_Generic.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/bin/Debug/net6.0/List_Generic.pdb
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/obj/Debug/net6.0/List_Generic.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/obj/Debug/net6.0/List_Generic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/obj/Debug/net6.0/List_Generic.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/obj/Debug/net6.0/List_Generic.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/obj/Debug/net6.0/List_Generic.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/obj/Debug/net6.0/List_Generic.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/obj/Debug/net6.0/refint/List_Generic.dll
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/obj/Debug/net6.0/List_Generic.pdb
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/obj/Debug/net6.0/List_Generic.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/İleri_Düzey_C_sharp_Udmy/List_Generic/obj/Debug/net6.0/ref/List_Generic.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/bin/Debug/net6.0/List_Generic
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/bin/Debug/net6.0/List_Generic.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/bin/Debug/net6.0/List_Generic.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/bin/Debug/net6.0/List_Generic.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/bin/Debug/net6.0/List_Generic.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/obj/Debug/net6.0/List_Generic.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/obj/Debug/net6.0/List_Generic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/obj/Debug/net6.0/List_Generic.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/obj/Debug/net6.0/List_Generic.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/obj/Debug/net6.0/List_Generic.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/obj/Debug/net6.0/List_Generic.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/obj/Debug/net6.0/refint/List_Generic.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/obj/Debug/net6.0/List_Generic.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/obj/Debug/net6.0/List_Generic.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/List_Generic/obj/Debug/net6.0/ref/List_Generic.dll

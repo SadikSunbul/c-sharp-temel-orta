@@ -1,0 +1,5 @@
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/CSV/obj/Debug/net7.0/CSVVV.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/CSV/obj/Debug/net7.0/CSVVV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/CSV/obj/Debug/net7.0/CSVVV.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/CSV/obj/Debug/net7.0/CSVVV.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/CSV/obj/Debug/net7.0/CSVVV.csproj.CoreCompileInputs.cache

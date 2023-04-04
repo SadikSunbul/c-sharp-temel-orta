@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Ogrencilerim>
+  <Öğrenci>
+    <İsim>taha</İsim>
+    <Email>q</Email>
+    <Soyisim>ahmet</Soyisim>
+    <Şifre>q</Şifre>
+    <Yaş>34</Yaş>
+  </Öğrenci>
+</Ogrencilerim>

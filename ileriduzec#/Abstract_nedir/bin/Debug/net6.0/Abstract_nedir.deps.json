@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Abstract_nedir/1.0.0": {
+        "runtime": {
+          "Abstract_nedir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstract_nedir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

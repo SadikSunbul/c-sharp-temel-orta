@@ -1,0 +1,12 @@
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/bin/Debug/net7.0/UdemyLibary.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/bin/Debug/net7.0/UdemyLibary.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/bin/Debug/net7.0/UdemyLibary.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/obj/Debug/net7.0/UdemyLibary.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/obj/Debug/net7.0/UdemyLibary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/obj/Debug/net7.0/UdemyLibary.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/obj/Debug/net7.0/UdemyLibary.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/obj/Debug/net7.0/UdemyLibary.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/obj/Debug/net7.0/UdemyLibary.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/obj/Debug/net7.0/refint/UdemyLibary.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/obj/Debug/net7.0/UdemyLibary.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/UdemyLibary/obj/Debug/net7.0/ref/UdemyLibary.dll

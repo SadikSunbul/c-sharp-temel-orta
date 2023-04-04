@@ -1,0 +1,17 @@
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/bin/Debug/net7.0/Jsonoku
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/bin/Debug/net7.0/Jsonoku.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/bin/Debug/net7.0/Jsonoku.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/bin/Debug/net7.0/Jsonoku.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/bin/Debug/net7.0/Jsonoku.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/obj/Debug/net7.0/Jsonoku.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/obj/Debug/net7.0/Jsonoku.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/obj/Debug/net7.0/Jsonoku.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/obj/Debug/net7.0/Jsonoku.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/obj/Debug/net7.0/Jsonoku.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/obj/Debug/net7.0/Jsonoku.csproj.CopyComplete
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/obj/Debug/net7.0/Jsonoku.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/obj/Debug/net7.0/refint/Jsonoku.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/obj/Debug/net7.0/Jsonoku.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/obj/Debug/net7.0/Jsonoku.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/ileriduzec#/Jsonoku/obj/Debug/net7.0/ref/Jsonoku.dll
