@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{F3BA2596-7C9B-4466-97A9-D627A8EE415A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HepsiBurada PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.polindromiksayi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trendyol/SanalDatBase.cs">
+    <Files>
+      <File FileName="otel_resepsiyon/Program.cs" />
+      <File FileName="otel_resepsiyon/DataBase.cs" />
+      <File FileName="otel_resepsiyon/Oda.cs" />
+      <File FileName="otel_resepsiyon/Yemek.cs" />
+      <File FileName="otel_resepsiyon/Müsteri.cs" />
+      <File FileName="Trendyol/BaseClass.cs" />
+      <File FileName="Trendyol/SanalDatBase.cs" Line="35" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="konsol_uygulaması" expanded="True">
+            <Node name="otel_resepsiyon" expanded="True" />
+            <Node name="Trendyol" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dizileriçerisineSayısalVerıAtama PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.smthsayı PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/Program.cs" relfile="Trendyol/Program.cs" line="6" column="1" />
+      <Breakpoint file="/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/Program.cs" relfile="HepsiBurada/Program.cs" line="57" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.otel__resepsiyon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Trendyol PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

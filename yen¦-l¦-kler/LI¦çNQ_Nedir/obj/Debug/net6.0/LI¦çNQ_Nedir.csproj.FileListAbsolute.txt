@@ -1,0 +1,17 @@
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/bin/Debug/net6.0/LİNQ_Nedir
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/bin/Debug/net6.0/LİNQ_Nedir.deps.json
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/bin/Debug/net6.0/LİNQ_Nedir.runtimeconfig.json
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/bin/Debug/net6.0/LİNQ_Nedir.dll
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/bin/Debug/net6.0/LİNQ_Nedir.pdb
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/bin/Debug/net6.0/FakeData.dll
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/obj/Debug/net6.0/LİNQ_Nedir.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/obj/Debug/net6.0/LİNQ_Nedir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/obj/Debug/net6.0/LİNQ_Nedir.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/obj/Debug/net6.0/LİNQ_Nedir.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/obj/Debug/net6.0/LİNQ_Nedir.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/obj/Debug/net6.0/LİNQ_Nedir.csproj.CopyComplete
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/obj/Debug/net6.0/LİNQ_Nedir.dll
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/obj/Debug/net6.0/refint/LİNQ_Nedir.dll
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/obj/Debug/net6.0/LİNQ_Nedir.pdb
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/obj/Debug/net6.0/LİNQ_Nedir.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/Yenilikler/LİNQ_Nedir/obj/Debug/net6.0/ref/LİNQ_Nedir.dll

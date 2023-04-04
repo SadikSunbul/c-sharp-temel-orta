@@ -1,0 +1,30 @@
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/bin/Debug/net6.0/smthsayı
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/bin/Debug/net6.0/smthsayı.deps.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/bin/Debug/net6.0/smthsayı.runtimeconfig.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/bin/Debug/net6.0/smthsayı.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/bin/Debug/net6.0/smthsayı.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/obj/Debug/net6.0/smthsayı.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/obj/Debug/net6.0/smthsayı.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/obj/Debug/net6.0/smthsayı.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/obj/Debug/net6.0/smthsayı.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/obj/Debug/net6.0/smthsayı.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/obj/Debug/net6.0/smthsayı.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/obj/Debug/net6.0/refint/smthsayı.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/obj/Debug/net6.0/smthsayı.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/obj/Debug/net6.0/smthsayı.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/smthsayı/obj/Debug/net6.0/ref/smthsayı.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/bin/Debug/net6.0/smthsayı
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/bin/Debug/net6.0/smthsayı.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/bin/Debug/net6.0/smthsayı.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/bin/Debug/net6.0/smthsayı.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/bin/Debug/net6.0/smthsayı.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/obj/Debug/net6.0/smthsayı.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/obj/Debug/net6.0/smthsayı.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/obj/Debug/net6.0/smthsayı.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/obj/Debug/net6.0/smthsayı.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/obj/Debug/net6.0/smthsayı.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/obj/Debug/net6.0/smthsayı.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/obj/Debug/net6.0/refint/smthsayı.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/obj/Debug/net6.0/smthsayı.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/obj/Debug/net6.0/smthsayı.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/smthsayı/obj/Debug/net6.0/ref/smthsayı.dll

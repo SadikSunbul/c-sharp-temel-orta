@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/obj/Debug/net7.0/HepsiBurada.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/obj/Debug/net7.0/HepsiBurada.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/obj/Debug/net7.0/HepsiBurada.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/obj/Debug/net7.0/HepsiBurada.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/obj/Debug/net7.0/HepsiBurada.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/bin/Debug/net7.0/HepsiBurada
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/bin/Debug/net7.0/HepsiBurada.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/bin/Debug/net7.0/HepsiBurada.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/bin/Debug/net7.0/HepsiBurada.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/bin/Debug/net7.0/HepsiBurada.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/obj/Debug/net7.0/HepsiBurada.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/obj/Debug/net7.0/refint/HepsiBurada.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/obj/Debug/net7.0/HepsiBurada.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/obj/Debug/net7.0/HepsiBurada.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/HepsiBurada/obj/Debug/net7.0/ref/HepsiBurada.dll

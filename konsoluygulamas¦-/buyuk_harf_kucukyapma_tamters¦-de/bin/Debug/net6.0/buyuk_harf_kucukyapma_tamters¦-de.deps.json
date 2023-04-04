@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "buyuk_harf_kucukyapma_tamtersıde/1.0.0": {
+        "runtime": {
+          "buyuk_harf_kucukyapma_tamtersıde.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "buyuk_harf_kucukyapma_tamtersıde/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

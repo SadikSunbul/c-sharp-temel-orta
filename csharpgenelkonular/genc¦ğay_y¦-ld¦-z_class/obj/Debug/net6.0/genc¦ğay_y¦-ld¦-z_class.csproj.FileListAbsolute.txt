@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/bin/Debug/net6.0/gençay_yıldız_class
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/bin/Debug/net6.0/gençay_yıldız_class.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/bin/Debug/net6.0/gençay_yıldız_class.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/bin/Debug/net6.0/gençay_yıldız_class.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/bin/Debug/net6.0/gençay_yıldız_class.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/obj/Debug/net6.0/gençay_yıldız_class.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/obj/Debug/net6.0/gençay_yıldız_class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/obj/Debug/net6.0/gençay_yıldız_class.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/obj/Debug/net6.0/gençay_yıldız_class.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/obj/Debug/net6.0/gençay_yıldız_class.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/obj/Debug/net6.0/gençay_yıldız_class.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/obj/Debug/net6.0/refint/gençay_yıldız_class.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/obj/Debug/net6.0/gençay_yıldız_class.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/obj/Debug/net6.0/gençay_yıldız_class.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/gençay_yıldız_class/obj/Debug/net6.0/ref/gençay_yıldız_class.dll

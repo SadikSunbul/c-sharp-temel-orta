@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "kelime_sayısı_bulma/1.0.0": {
+        "runtime": {
+          "kelime_sayısı_bulma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kelime_sayısı_bulma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

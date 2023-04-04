@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  lnq_nedir:
+    image: ${DOCKER_REGISTRY-}lnqnedir
+    build:
+      context: .
+      dockerfile: LİNQ_Nedir/Dockerfile

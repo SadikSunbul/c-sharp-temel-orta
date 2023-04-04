@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/Csharp/kitap2/bin/Debug/net6.0/kitap2
+/Users/sadiksunbul/Projects/Csharp/kitap2/bin/Debug/net6.0/kitap2.deps.json
+/Users/sadiksunbul/Projects/Csharp/kitap2/bin/Debug/net6.0/kitap2.runtimeconfig.json
+/Users/sadiksunbul/Projects/Csharp/kitap2/bin/Debug/net6.0/kitap2.dll
+/Users/sadiksunbul/Projects/Csharp/kitap2/bin/Debug/net6.0/kitap2.pdb
+/Users/sadiksunbul/Projects/Csharp/kitap2/obj/Debug/net6.0/kitap2.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/Csharp/kitap2/obj/Debug/net6.0/kitap2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/Csharp/kitap2/obj/Debug/net6.0/kitap2.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/Csharp/kitap2/obj/Debug/net6.0/kitap2.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/Csharp/kitap2/obj/Debug/net6.0/kitap2.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/Csharp/kitap2/obj/Debug/net6.0/kitap2.dll
+/Users/sadiksunbul/Projects/Csharp/kitap2/obj/Debug/net6.0/refint/kitap2.dll
+/Users/sadiksunbul/Projects/Csharp/kitap2/obj/Debug/net6.0/kitap2.pdb
+/Users/sadiksunbul/Projects/Csharp/kitap2/obj/Debug/net6.0/kitap2.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/Csharp/kitap2/obj/Debug/net6.0/ref/kitap2.dll

@@ -1,0 +1,5 @@
+/Users/sadiksunbul/Projects/Yenilikler/delegate_nedir/obj/Debug/net6.0/delegate_nedir.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/Yenilikler/delegate_nedir/obj/Debug/net6.0/delegate_nedir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/Yenilikler/delegate_nedir/obj/Debug/net6.0/delegate_nedir.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/Yenilikler/delegate_nedir/obj/Debug/net6.0/delegate_nedir.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/Yenilikler/delegate_nedir/obj/Debug/net6.0/delegate_nedir.csproj.CoreCompileInputs.cache

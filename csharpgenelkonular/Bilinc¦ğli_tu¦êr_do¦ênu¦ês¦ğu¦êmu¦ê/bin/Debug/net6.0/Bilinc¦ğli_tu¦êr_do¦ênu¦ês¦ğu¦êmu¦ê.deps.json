@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bilinçli_tür_dönüşümü/1.0.0": {
+        "runtime": {
+          "Bilinçli_tür_dönüşümü.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bilinçli_tür_dönüşümü/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

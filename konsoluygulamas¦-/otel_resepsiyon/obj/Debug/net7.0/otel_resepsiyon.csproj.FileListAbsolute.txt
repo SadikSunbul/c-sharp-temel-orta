@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/bin/Debug/net7.0/otel_resepsiyon
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/bin/Debug/net7.0/otel_resepsiyon.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/bin/Debug/net7.0/otel_resepsiyon.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/bin/Debug/net7.0/otel_resepsiyon.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/bin/Debug/net7.0/otel_resepsiyon.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/obj/Debug/net7.0/otel_resepsiyon.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/obj/Debug/net7.0/otel_resepsiyon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/obj/Debug/net7.0/otel_resepsiyon.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/obj/Debug/net7.0/otel_resepsiyon.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/obj/Debug/net7.0/otel_resepsiyon.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/obj/Debug/net7.0/otel_resepsiyon.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/obj/Debug/net7.0/refint/otel_resepsiyon.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/obj/Debug/net7.0/otel_resepsiyon.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/obj/Debug/net7.0/otel_resepsiyon.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/otel_resepsiyon/obj/Debug/net7.0/ref/otel_resepsiyon.dll

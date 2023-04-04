@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/obj/Debug/net7.0/denmee_.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/obj/Debug/net7.0/denmee_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/obj/Debug/net7.0/denmee_.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/obj/Debug/net7.0/denmee_.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/obj/Debug/net7.0/denmee_.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/bin/Debug/net7.0/denmee_
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/bin/Debug/net7.0/denmee_.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/bin/Debug/net7.0/denmee_.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/bin/Debug/net7.0/denmee_.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/bin/Debug/net7.0/denmee_.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/obj/Debug/net7.0/denmee_.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/obj/Debug/net7.0/refint/denmee_.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/obj/Debug/net7.0/denmee_.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/obj/Debug/net7.0/denmee_.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/denmee_/obj/Debug/net7.0/ref/denmee_.dll

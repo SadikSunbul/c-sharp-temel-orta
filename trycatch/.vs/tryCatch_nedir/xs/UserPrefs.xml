@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{28B143CD-C067-47EB-8D97-4C2609C80051}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.tryCatch__nedir PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tryCatch_nedir/Program.cs">
+    <Files>
+      <File FileName="tryCatch_nedir/Program.cs" Line="42" Column="21" />
+      <File FileName="tryCatch_nedir/ÖzelHataSınıfı.cs" Line="4" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tryCatch_nedir" expanded="True">
+            <Node name="tryCatch_nedir" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

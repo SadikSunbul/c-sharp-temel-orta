@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/bin/Debug/net6.0/Directoryİşlemleri
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/bin/Debug/net6.0/Directoryİşlemleri.deps.json
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/bin/Debug/net6.0/Directoryİşlemleri.runtimeconfig.json
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/bin/Debug/net6.0/Directoryİşlemleri.dll
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/bin/Debug/net6.0/Directoryİşlemleri.pdb
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/obj/Debug/net6.0/Directoryİşlemleri.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/obj/Debug/net6.0/Directoryİşlemleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/obj/Debug/net6.0/Directoryİşlemleri.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/obj/Debug/net6.0/Directoryİşlemleri.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/obj/Debug/net6.0/Directoryİşlemleri.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/obj/Debug/net6.0/Directoryİşlemleri.dll
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/obj/Debug/net6.0/refint/Directoryİşlemleri.dll
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/obj/Debug/net6.0/Directoryİşlemleri.pdb
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/obj/Debug/net6.0/Directoryİşlemleri.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/obj/Debug/net6.0/ref/Directoryİşlemleri.dll

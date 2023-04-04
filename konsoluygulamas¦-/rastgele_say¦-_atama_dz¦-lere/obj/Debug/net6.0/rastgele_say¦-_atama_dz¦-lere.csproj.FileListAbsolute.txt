@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/bin/Debug/net6.0/rastgele_sayı_atama_dzılere
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/bin/Debug/net6.0/rastgele_sayı_atama_dzılere.deps.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/bin/Debug/net6.0/rastgele_sayı_atama_dzılere.runtimeconfig.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/bin/Debug/net6.0/rastgele_sayı_atama_dzılere.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/bin/Debug/net6.0/rastgele_sayı_atama_dzılere.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/obj/Debug/net6.0/rastgele_sayı_atama_dzılere.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/obj/Debug/net6.0/rastgele_sayı_atama_dzılere.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/obj/Debug/net6.0/rastgele_sayı_atama_dzılere.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/obj/Debug/net6.0/rastgele_sayı_atama_dzılere.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/obj/Debug/net6.0/rastgele_sayı_atama_dzılere.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/obj/Debug/net6.0/rastgele_sayı_atama_dzılere.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/obj/Debug/net6.0/refint/rastgele_sayı_atama_dzılere.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/obj/Debug/net6.0/rastgele_sayı_atama_dzılere.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/obj/Debug/net6.0/rastgele_sayı_atama_dzılere.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/rastgele_sayı_atama_dzılere/obj/Debug/net6.0/ref/rastgele_sayı_atama_dzılere.dll

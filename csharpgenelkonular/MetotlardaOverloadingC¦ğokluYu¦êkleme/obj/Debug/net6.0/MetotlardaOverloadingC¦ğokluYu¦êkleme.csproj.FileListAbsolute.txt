@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/bin/Debug/net6.0/MetotlardaOverloadingÇokluYükleme
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/bin/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/bin/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/bin/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/bin/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/obj/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/obj/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/obj/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/obj/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/obj/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/obj/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/obj/Debug/net6.0/refint/MetotlardaOverloadingÇokluYükleme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/obj/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/obj/Debug/net6.0/MetotlardaOverloadingÇokluYükleme.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/MetotlardaOverloadingÇokluYükleme/obj/Debug/net6.0/ref/MetotlardaOverloadingÇokluYükleme.dll

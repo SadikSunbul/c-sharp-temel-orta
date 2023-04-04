@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/Csharp/denemeeee/obj/Debug/net6.0/denemeeee.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/Csharp/denemeeee/obj/Debug/net6.0/denemeeee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/Csharp/denemeeee/obj/Debug/net6.0/denemeeee.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/Csharp/denemeeee/obj/Debug/net6.0/denemeeee.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/Csharp/denemeeee/obj/Debug/net6.0/denemeeee.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/Csharp/denemeeee/bin/Debug/net6.0/denemeeee
+/Users/sadiksunbul/Projects/Csharp/denemeeee/bin/Debug/net6.0/denemeeee.deps.json
+/Users/sadiksunbul/Projects/Csharp/denemeeee/bin/Debug/net6.0/denemeeee.runtimeconfig.json
+/Users/sadiksunbul/Projects/Csharp/denemeeee/bin/Debug/net6.0/denemeeee.dll
+/Users/sadiksunbul/Projects/Csharp/denemeeee/bin/Debug/net6.0/denemeeee.pdb
+/Users/sadiksunbul/Projects/Csharp/denemeeee/obj/Debug/net6.0/denemeeee.dll
+/Users/sadiksunbul/Projects/Csharp/denemeeee/obj/Debug/net6.0/refint/denemeeee.dll
+/Users/sadiksunbul/Projects/Csharp/denemeeee/obj/Debug/net6.0/denemeeee.pdb
+/Users/sadiksunbul/Projects/Csharp/denemeeee/obj/Debug/net6.0/denemeeee.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/Csharp/denemeeee/obj/Debug/net6.0/ref/denemeeee.dll

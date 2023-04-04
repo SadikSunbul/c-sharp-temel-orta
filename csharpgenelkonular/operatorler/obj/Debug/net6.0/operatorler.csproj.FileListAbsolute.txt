@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/bin/Debug/net6.0/operatorler
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/bin/Debug/net6.0/operatorler.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/bin/Debug/net6.0/operatorler.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/bin/Debug/net6.0/operatorler.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/bin/Debug/net6.0/operatorler.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/obj/Debug/net6.0/operatorler.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/obj/Debug/net6.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/obj/Debug/net6.0/operatorler.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/obj/Debug/net6.0/operatorler.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/obj/Debug/net6.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/obj/Debug/net6.0/operatorler.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/obj/Debug/net6.0/refint/operatorler.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/obj/Debug/net6.0/operatorler.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/obj/Debug/net6.0/operatorler.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/operatorler/obj/Debug/net6.0/ref/operatorler.dll

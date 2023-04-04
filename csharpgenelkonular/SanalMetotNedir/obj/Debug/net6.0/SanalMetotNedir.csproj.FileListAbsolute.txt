@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/bin/Debug/net6.0/SanalMetotNedir
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/bin/Debug/net6.0/SanalMetotNedir.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/bin/Debug/net6.0/SanalMetotNedir.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/bin/Debug/net6.0/SanalMetotNedir.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/bin/Debug/net6.0/SanalMetotNedir.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/obj/Debug/net6.0/SanalMetotNedir.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/obj/Debug/net6.0/SanalMetotNedir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/obj/Debug/net6.0/SanalMetotNedir.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/obj/Debug/net6.0/SanalMetotNedir.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/obj/Debug/net6.0/SanalMetotNedir.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/obj/Debug/net6.0/SanalMetotNedir.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/obj/Debug/net6.0/refint/SanalMetotNedir.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/obj/Debug/net6.0/SanalMetotNedir.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/obj/Debug/net6.0/SanalMetotNedir.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/SanalMetotNedir/obj/Debug/net6.0/ref/SanalMetotNedir.dll

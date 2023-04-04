@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/bin/Debug/net6.0/Bilinçli_tür_dönüşümü
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/bin/Debug/net6.0/Bilinçli_tür_dönüşümü.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/bin/Debug/net6.0/Bilinçli_tür_dönüşümü.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/bin/Debug/net6.0/Bilinçli_tür_dönüşümü.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/bin/Debug/net6.0/Bilinçli_tür_dönüşümü.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/obj/Debug/net6.0/Bilinçli_tür_dönüşümü.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/obj/Debug/net6.0/Bilinçli_tür_dönüşümü.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/obj/Debug/net6.0/Bilinçli_tür_dönüşümü.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/obj/Debug/net6.0/Bilinçli_tür_dönüşümü.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/obj/Debug/net6.0/Bilinçli_tür_dönüşümü.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/obj/Debug/net6.0/Bilinçli_tür_dönüşümü.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/obj/Debug/net6.0/refint/Bilinçli_tür_dönüşümü.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/obj/Debug/net6.0/Bilinçli_tür_dönüşümü.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/obj/Debug/net6.0/Bilinçli_tür_dönüşümü.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Bilinçli_tür_dönüşümü/obj/Debug/net6.0/ref/Bilinçli_tür_dönüşümü.dll

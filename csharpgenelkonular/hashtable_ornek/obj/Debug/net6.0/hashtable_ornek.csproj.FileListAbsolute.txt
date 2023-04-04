@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/bin/Debug/net6.0/hashtable_ornek
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/bin/Debug/net6.0/hashtable_ornek.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/bin/Debug/net6.0/hashtable_ornek.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/bin/Debug/net6.0/hashtable_ornek.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/bin/Debug/net6.0/hashtable_ornek.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/obj/Debug/net6.0/hashtable_ornek.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/obj/Debug/net6.0/hashtable_ornek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/obj/Debug/net6.0/hashtable_ornek.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/obj/Debug/net6.0/hashtable_ornek.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/obj/Debug/net6.0/hashtable_ornek.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/obj/Debug/net6.0/hashtable_ornek.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/obj/Debug/net6.0/refint/hashtable_ornek.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/obj/Debug/net6.0/hashtable_ornek.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/obj/Debug/net6.0/hashtable_ornek.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/hashtable_ornek/obj/Debug/net6.0/ref/hashtable_ornek.dll

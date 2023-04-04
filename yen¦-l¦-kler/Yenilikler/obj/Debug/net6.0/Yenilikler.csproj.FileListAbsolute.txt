@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/obj/Debug/net6.0/Yenilikler.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/obj/Debug/net6.0/Yenilikler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/obj/Debug/net6.0/Yenilikler.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/obj/Debug/net6.0/Yenilikler.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/obj/Debug/net6.0/Yenilikler.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/bin/Debug/net6.0/Yenilikler
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/bin/Debug/net6.0/Yenilikler.deps.json
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/bin/Debug/net6.0/Yenilikler.runtimeconfig.json
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/bin/Debug/net6.0/Yenilikler.dll
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/bin/Debug/net6.0/Yenilikler.pdb
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/obj/Debug/net6.0/Yenilikler.dll
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/obj/Debug/net6.0/refint/Yenilikler.dll
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/obj/Debug/net6.0/Yenilikler.pdb
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/obj/Debug/net6.0/Yenilikler.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/Yenilikler/Yenilikler/obj/Debug/net6.0/ref/Yenilikler.dll

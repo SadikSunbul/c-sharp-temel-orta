@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "kelıme_ıcerısınden_kelıme_arama/1.0.0": {
+        "runtime": {
+          "kelıme_ıcerısınden_kelıme_arama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kelıme_ıcerısınden_kelıme_arama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

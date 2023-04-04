@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "delegate_2.vıdeo/1.0.0": {
+        "runtime": {
+          "delegate_2.vıdeo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "delegate_2.vıdeo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

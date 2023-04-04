@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WFYY/OJc5oVR94TOU/s+TQkWJGXQvHnciGISLjaklDWYoCRwWcXWBvckBSZIvUKTuY464jmvK1upiT+1n4xYg==",
+  "success": true,
+  "projectFilePath": "/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/delegate_2.vıdeo/delegate_2.vıdeo.csproj",
+  "expectedPackageFiles": [
+    "/Users/sadiksunbul/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/sadiksunbul/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/sadiksunbul/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

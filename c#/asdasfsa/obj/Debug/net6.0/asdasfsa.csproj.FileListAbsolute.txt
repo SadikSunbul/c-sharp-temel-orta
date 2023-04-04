@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/bin/Debug/net6.0/asdasfsa
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/bin/Debug/net6.0/asdasfsa.deps.json
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/bin/Debug/net6.0/asdasfsa.runtimeconfig.json
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/bin/Debug/net6.0/asdasfsa.dll
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/bin/Debug/net6.0/asdasfsa.pdb
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/obj/Debug/net6.0/asdasfsa.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/obj/Debug/net6.0/asdasfsa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/obj/Debug/net6.0/asdasfsa.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/obj/Debug/net6.0/asdasfsa.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/obj/Debug/net6.0/asdasfsa.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/obj/Debug/net6.0/asdasfsa.dll
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/obj/Debug/net6.0/refint/asdasfsa.dll
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/obj/Debug/net6.0/asdasfsa.pdb
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/obj/Debug/net6.0/asdasfsa.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/Csharp/asdasfsa/obj/Debug/net6.0/ref/asdasfsa.dll

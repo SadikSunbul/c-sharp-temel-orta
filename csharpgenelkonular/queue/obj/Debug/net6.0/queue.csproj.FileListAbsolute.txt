@@ -1,0 +1,30 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/bin/Debug/net6.0/queue
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/bin/Debug/net6.0/queue.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/bin/Debug/net6.0/queue.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/bin/Debug/net6.0/queue.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/bin/Debug/net6.0/queue.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/obj/Debug/net6.0/queue.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/obj/Debug/net6.0/queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/obj/Debug/net6.0/queue.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/obj/Debug/net6.0/queue.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/obj/Debug/net6.0/queue.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/obj/Debug/net6.0/queue.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/obj/Debug/net6.0/refint/queue.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/obj/Debug/net6.0/queue.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/obj/Debug/net6.0/queue.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/queue/obj/Debug/net6.0/ref/queue.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/bin/Debug/net6.0/queue
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/bin/Debug/net6.0/queue.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/bin/Debug/net6.0/queue.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/bin/Debug/net6.0/queue.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/bin/Debug/net6.0/queue.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/obj/Debug/net6.0/queue.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/obj/Debug/net6.0/queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/obj/Debug/net6.0/queue.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/obj/Debug/net6.0/queue.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/obj/Debug/net6.0/queue.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/obj/Debug/net6.0/queue.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/obj/Debug/net6.0/refint/queue.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/obj/Debug/net6.0/queue.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/obj/Debug/net6.0/queue.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/queue/obj/Debug/net6.0/ref/queue.dll

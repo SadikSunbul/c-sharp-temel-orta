@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/bin/Debug/net6.0/tryCatch_nedir
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/bin/Debug/net6.0/tryCatch_nedir.deps.json
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/bin/Debug/net6.0/tryCatch_nedir.runtimeconfig.json
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/bin/Debug/net6.0/tryCatch_nedir.dll
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/bin/Debug/net6.0/tryCatch_nedir.pdb
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/obj/Debug/net6.0/tryCatch_nedir.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/obj/Debug/net6.0/tryCatch_nedir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/obj/Debug/net6.0/tryCatch_nedir.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/obj/Debug/net6.0/tryCatch_nedir.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/obj/Debug/net6.0/tryCatch_nedir.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/obj/Debug/net6.0/tryCatch_nedir.dll
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/obj/Debug/net6.0/refint/tryCatch_nedir.dll
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/obj/Debug/net6.0/tryCatch_nedir.pdb
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/obj/Debug/net6.0/tryCatch_nedir.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/tryCatch_nedir/tryCatch_nedir/obj/Debug/net6.0/ref/tryCatch_nedir.dll

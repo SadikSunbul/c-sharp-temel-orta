@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Directoryİşlemleri</id>
+    <version>1.0.0</version>
+    <authors>Directoryİşlemleri</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/bin/Debug/net6.0/Directoryİşlemleri.runtimeconfig.json" target="lib/net6.0/Directoryİşlemleri.runtimeconfig.json" />
+    <file src="/Users/sadiksunbul/Desktop/dosya_kalsor_işlemleri/Directoryİşlemleri/bin/Debug/net6.0/Directoryİşlemleri.dll" target="lib/net6.0/Directoryİşlemleri.dll" />
+  </files>
+</package>

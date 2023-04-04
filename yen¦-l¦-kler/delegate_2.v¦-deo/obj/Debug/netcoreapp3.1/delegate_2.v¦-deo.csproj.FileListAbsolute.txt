@@ -1,0 +1,14 @@
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/bin/Debug/netcoreapp3.1/delegate_2.vıdeo
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/bin/Debug/netcoreapp3.1/delegate_2.vıdeo.deps.json
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/bin/Debug/netcoreapp3.1/delegate_2.vıdeo.runtimeconfig.json
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/bin/Debug/netcoreapp3.1/delegate_2.vıdeo.runtimeconfig.dev.json
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/bin/Debug/netcoreapp3.1/delegate_2.vıdeo.dll
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/bin/Debug/netcoreapp3.1/delegate_2.vıdeo.pdb
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/obj/Debug/netcoreapp3.1/delegate_2.vıdeo.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/obj/Debug/netcoreapp3.1/delegate_2.vıdeo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/obj/Debug/netcoreapp3.1/delegate_2.vıdeo.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/obj/Debug/netcoreapp3.1/delegate_2.vıdeo.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/obj/Debug/netcoreapp3.1/delegate_2.vıdeo.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/obj/Debug/netcoreapp3.1/delegate_2.vıdeo.dll
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/obj/Debug/netcoreapp3.1/delegate_2.vıdeo.pdb
+/Users/sadiksunbul/Projects/Yenilikler/delegate_2.vıdeo/obj/Debug/netcoreapp3.1/delegate_2.vıdeo.genruntimeconfig.cache

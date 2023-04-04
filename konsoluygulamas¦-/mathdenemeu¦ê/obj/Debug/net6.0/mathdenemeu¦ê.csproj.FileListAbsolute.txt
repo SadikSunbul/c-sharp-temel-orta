@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/bin/Debug/net6.0/mathdenemeü
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/bin/Debug/net6.0/mathdenemeü.deps.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/bin/Debug/net6.0/mathdenemeü.runtimeconfig.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/bin/Debug/net6.0/mathdenemeü.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/bin/Debug/net6.0/mathdenemeü.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/obj/Debug/net6.0/mathdenemeü.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/obj/Debug/net6.0/mathdenemeü.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/obj/Debug/net6.0/mathdenemeü.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/obj/Debug/net6.0/mathdenemeü.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/obj/Debug/net6.0/mathdenemeü.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/obj/Debug/net6.0/mathdenemeü.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/obj/Debug/net6.0/refint/mathdenemeü.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/obj/Debug/net6.0/mathdenemeü.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/obj/Debug/net6.0/mathdenemeü.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/mathdenemeü/obj/Debug/net6.0/ref/mathdenemeü.dll

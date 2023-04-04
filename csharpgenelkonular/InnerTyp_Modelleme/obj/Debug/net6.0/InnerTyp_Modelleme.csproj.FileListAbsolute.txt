@@ -1,0 +1,30 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/bin/Debug/net6.0/InnerTyp_Modelleme
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/bin/Debug/net6.0/InnerTyp_Modelleme.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/bin/Debug/net6.0/InnerTyp_Modelleme.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/bin/Debug/net6.0/InnerTyp_Modelleme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/bin/Debug/net6.0/InnerTyp_Modelleme.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/obj/Debug/net6.0/refint/InnerTyp_Modelleme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/InnerTyp_Modelleme/obj/Debug/net6.0/ref/InnerTyp_Modelleme.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/bin/Debug/net6.0/InnerTyp_Modelleme
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/bin/Debug/net6.0/InnerTyp_Modelleme.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/bin/Debug/net6.0/InnerTyp_Modelleme.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/bin/Debug/net6.0/InnerTyp_Modelleme.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/bin/Debug/net6.0/InnerTyp_Modelleme.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/obj/Debug/net6.0/refint/InnerTyp_Modelleme.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/obj/Debug/net6.0/InnerTyp_Modelleme.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/InnerTyp_Modelleme/obj/Debug/net6.0/ref/InnerTyp_Modelleme.dll

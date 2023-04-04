@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/Csharp/deneöler/obj/Debug/net6.0/deneöler.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/Csharp/deneöler/obj/Debug/net6.0/deneöler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/Csharp/deneöler/obj/Debug/net6.0/deneöler.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/Csharp/deneöler/obj/Debug/net6.0/deneöler.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/Csharp/deneöler/obj/Debug/net6.0/deneöler.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/Csharp/deneöler/bin/Debug/net6.0/deneöler
+/Users/sadiksunbul/Projects/Csharp/deneöler/bin/Debug/net6.0/deneöler.deps.json
+/Users/sadiksunbul/Projects/Csharp/deneöler/bin/Debug/net6.0/deneöler.runtimeconfig.json
+/Users/sadiksunbul/Projects/Csharp/deneöler/bin/Debug/net6.0/deneöler.dll
+/Users/sadiksunbul/Projects/Csharp/deneöler/bin/Debug/net6.0/deneöler.pdb
+/Users/sadiksunbul/Projects/Csharp/deneöler/obj/Debug/net6.0/deneöler.dll
+/Users/sadiksunbul/Projects/Csharp/deneöler/obj/Debug/net6.0/refint/deneöler.dll
+/Users/sadiksunbul/Projects/Csharp/deneöler/obj/Debug/net6.0/deneöler.pdb
+/Users/sadiksunbul/Projects/Csharp/deneöler/obj/Debug/net6.0/deneöler.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/Csharp/deneöler/obj/Debug/net6.0/ref/deneöler.dll

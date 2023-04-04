@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/bin/Debug/net6.0/static_personel_uygulaması
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/bin/Debug/net6.0/static_personel_uygulaması.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/bin/Debug/net6.0/static_personel_uygulaması.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/bin/Debug/net6.0/static_personel_uygulaması.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/bin/Debug/net6.0/static_personel_uygulaması.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/obj/Debug/net6.0/static_personel_uygulaması.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/obj/Debug/net6.0/static_personel_uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/obj/Debug/net6.0/static_personel_uygulaması.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/obj/Debug/net6.0/static_personel_uygulaması.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/obj/Debug/net6.0/static_personel_uygulaması.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/obj/Debug/net6.0/static_personel_uygulaması.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/obj/Debug/net6.0/refint/static_personel_uygulaması.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/obj/Debug/net6.0/static_personel_uygulaması.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/obj/Debug/net6.0/static_personel_uygulaması.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/static_personel_uygulaması/obj/Debug/net6.0/ref/static_personel_uygulaması.dll

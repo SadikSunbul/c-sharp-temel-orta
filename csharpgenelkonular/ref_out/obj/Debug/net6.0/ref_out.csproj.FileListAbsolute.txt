@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/bin/Debug/net6.0/ref_out
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/bin/Debug/net6.0/ref_out.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/bin/Debug/net6.0/ref_out.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/bin/Debug/net6.0/ref_out.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/bin/Debug/net6.0/ref_out.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/obj/Debug/net6.0/ref_out.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/obj/Debug/net6.0/ref_out.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/obj/Debug/net6.0/ref_out.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/obj/Debug/net6.0/ref_out.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/obj/Debug/net6.0/ref_out.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/obj/Debug/net6.0/ref_out.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/obj/Debug/net6.0/refint/ref_out.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/obj/Debug/net6.0/ref_out.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/obj/Debug/net6.0/ref_out.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/ref_out/obj/Debug/net6.0/ref/ref_out.dll

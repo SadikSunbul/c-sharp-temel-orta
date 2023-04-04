@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Zl+uvBTS+oHgrwCf/FdG8lZXtzDSv+SXpE1CCNirmAVMg9/mF9kdBx87DdAvMmvnVnHOAMtvNKvCSBmGmD3Mw==",
+  "success": true,
+  "projectFilePath": "/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/dasfaf/delegate_nedir_d.csproj",
+  "expectedPackageFiles": [
+    "/Users/sadiksunbul/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/sadiksunbul/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/sadiksunbul/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

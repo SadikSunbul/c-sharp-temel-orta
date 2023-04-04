@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/bin/Debug/net6.0/safasf
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/bin/Debug/net6.0/safasf.deps.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/bin/Debug/net6.0/safasf.runtimeconfig.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/bin/Debug/net6.0/safasf.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/bin/Debug/net6.0/safasf.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/obj/Debug/net6.0/safasf.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/obj/Debug/net6.0/safasf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/obj/Debug/net6.0/safasf.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/obj/Debug/net6.0/safasf.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/obj/Debug/net6.0/safasf.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/obj/Debug/net6.0/safasf.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/obj/Debug/net6.0/refint/safasf.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/obj/Debug/net6.0/safasf.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/obj/Debug/net6.0/safasf.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/safasf/obj/Debug/net6.0/ref/safasf.dll

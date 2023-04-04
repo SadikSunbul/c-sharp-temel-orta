@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/bin/Debug/net6.0/girişuygulaması
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/bin/Debug/net6.0/girişuygulaması.deps.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/bin/Debug/net6.0/girişuygulaması.runtimeconfig.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/bin/Debug/net6.0/girişuygulaması.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/bin/Debug/net6.0/girişuygulaması.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/obj/Debug/net6.0/girişuygulaması.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/obj/Debug/net6.0/girişuygulaması.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/obj/Debug/net6.0/girişuygulaması.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/obj/Debug/net6.0/girişuygulaması.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/obj/Debug/net6.0/girişuygulaması.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/obj/Debug/net6.0/girişuygulaması.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/obj/Debug/net6.0/refint/girişuygulaması.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/obj/Debug/net6.0/girişuygulaması.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/obj/Debug/net6.0/girişuygulaması.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/girişuygulaması/obj/Debug/net6.0/ref/girişuygulaması.dll

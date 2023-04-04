@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/bin/Debug/net6.0/Bölüm_sonu_ödevi
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/bin/Debug/net6.0/Bölüm_sonu_ödevi.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/bin/Debug/net6.0/Bölüm_sonu_ödevi.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/bin/Debug/net6.0/Bölüm_sonu_ödevi.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/bin/Debug/net6.0/Bölüm_sonu_ödevi.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/obj/Debug/net6.0/Bölüm_sonu_ödevi.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/obj/Debug/net6.0/Bölüm_sonu_ödevi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/obj/Debug/net6.0/Bölüm_sonu_ödevi.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/obj/Debug/net6.0/Bölüm_sonu_ödevi.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/obj/Debug/net6.0/Bölüm_sonu_ödevi.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/obj/Debug/net6.0/Bölüm_sonu_ödevi.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/obj/Debug/net6.0/refint/Bölüm_sonu_ödevi.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/obj/Debug/net6.0/Bölüm_sonu_ödevi.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/obj/Debug/net6.0/Bölüm_sonu_ödevi.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Bölüm_sonu_ödevi/obj/Debug/net6.0/ref/Bölüm_sonu_ödevi.dll

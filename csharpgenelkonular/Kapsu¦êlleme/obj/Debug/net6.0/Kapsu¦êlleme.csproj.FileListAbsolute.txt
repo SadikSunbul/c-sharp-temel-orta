@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/bin/Debug/net6.0/Kapsülleme
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/bin/Debug/net6.0/Kapsülleme.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/bin/Debug/net6.0/Kapsülleme.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/bin/Debug/net6.0/Kapsülleme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/bin/Debug/net6.0/Kapsülleme.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/obj/Debug/net6.0/Kapsülleme.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/obj/Debug/net6.0/Kapsülleme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/obj/Debug/net6.0/Kapsülleme.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/obj/Debug/net6.0/Kapsülleme.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/obj/Debug/net6.0/Kapsülleme.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/obj/Debug/net6.0/Kapsülleme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/obj/Debug/net6.0/refint/Kapsülleme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/obj/Debug/net6.0/Kapsülleme.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/obj/Debug/net6.0/Kapsülleme.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kapsülleme/obj/Debug/net6.0/ref/Kapsülleme.dll

@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/bin/Debug/net6.0/sortedlist
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/bin/Debug/net6.0/sortedlist.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/bin/Debug/net6.0/sortedlist.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/bin/Debug/net6.0/sortedlist.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/bin/Debug/net6.0/sortedlist.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/obj/Debug/net6.0/sortedlist.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/obj/Debug/net6.0/sortedlist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/obj/Debug/net6.0/sortedlist.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/obj/Debug/net6.0/sortedlist.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/obj/Debug/net6.0/sortedlist.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/obj/Debug/net6.0/sortedlist.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/obj/Debug/net6.0/refint/sortedlist.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/obj/Debug/net6.0/sortedlist.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/obj/Debug/net6.0/sortedlist.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/sortedlist/obj/Debug/net6.0/ref/sortedlist.dll

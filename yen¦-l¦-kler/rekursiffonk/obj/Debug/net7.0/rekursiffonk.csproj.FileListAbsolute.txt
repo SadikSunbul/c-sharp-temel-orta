@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/bin/Debug/net7.0/rekursiffonk
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/bin/Debug/net7.0/rekursiffonk.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/bin/Debug/net7.0/rekursiffonk.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/bin/Debug/net7.0/rekursiffonk.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/bin/Debug/net7.0/rekursiffonk.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/obj/Debug/net7.0/rekursiffonk.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/obj/Debug/net7.0/rekursiffonk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/obj/Debug/net7.0/rekursiffonk.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/obj/Debug/net7.0/rekursiffonk.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/obj/Debug/net7.0/rekursiffonk.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/obj/Debug/net7.0/rekursiffonk.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/obj/Debug/net7.0/refint/rekursiffonk.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/obj/Debug/net7.0/rekursiffonk.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/obj/Debug/net7.0/rekursiffonk.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/obj/Debug/net7.0/ref/rekursiffonk.dll

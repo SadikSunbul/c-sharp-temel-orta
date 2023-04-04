@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/bin/Debug/net6.0/tekrarrrrrrrrrr
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/bin/Debug/net6.0/tekrarrrrrrrrrr.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/bin/Debug/net6.0/tekrarrrrrrrrrr.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/bin/Debug/net6.0/tekrarrrrrrrrrr.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/bin/Debug/net6.0/tekrarrrrrrrrrr.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/obj/Debug/net6.0/tekrarrrrrrrrrr.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/obj/Debug/net6.0/tekrarrrrrrrrrr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/obj/Debug/net6.0/tekrarrrrrrrrrr.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/obj/Debug/net6.0/tekrarrrrrrrrrr.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/obj/Debug/net6.0/tekrarrrrrrrrrr.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/obj/Debug/net6.0/tekrarrrrrrrrrr.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/obj/Debug/net6.0/refint/tekrarrrrrrrrrr.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/obj/Debug/net6.0/tekrarrrrrrrrrr.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/obj/Debug/net6.0/tekrarrrrrrrrrr.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/tekrarrrrrrrrrr/obj/Debug/net6.0/ref/tekrarrrrrrrrrr.dll

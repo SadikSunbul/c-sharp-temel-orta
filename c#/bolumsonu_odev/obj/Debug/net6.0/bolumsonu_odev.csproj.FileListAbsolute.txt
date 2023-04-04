@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/obj/Debug/net6.0/bolumsonu_odev.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/obj/Debug/net6.0/bolumsonu_odev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/obj/Debug/net6.0/bolumsonu_odev.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/obj/Debug/net6.0/bolumsonu_odev.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/obj/Debug/net6.0/bolumsonu_odev.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/bin/Debug/net6.0/bolumsonu_odev
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/bin/Debug/net6.0/bolumsonu_odev.deps.json
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/bin/Debug/net6.0/bolumsonu_odev.runtimeconfig.json
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/bin/Debug/net6.0/bolumsonu_odev.dll
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/bin/Debug/net6.0/bolumsonu_odev.pdb
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/obj/Debug/net6.0/bolumsonu_odev.dll
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/obj/Debug/net6.0/refint/bolumsonu_odev.dll
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/obj/Debug/net6.0/bolumsonu_odev.pdb
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/obj/Debug/net6.0/bolumsonu_odev.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/Csharp/bolumsonu_odev/obj/Debug/net6.0/ref/bolumsonu_odev.dll

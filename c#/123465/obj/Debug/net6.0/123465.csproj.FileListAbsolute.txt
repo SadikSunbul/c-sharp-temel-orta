@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/Csharp/123465/bin/Debug/net6.0/123465
+/Users/sadiksunbul/Projects/Csharp/123465/bin/Debug/net6.0/123465.deps.json
+/Users/sadiksunbul/Projects/Csharp/123465/bin/Debug/net6.0/123465.runtimeconfig.json
+/Users/sadiksunbul/Projects/Csharp/123465/bin/Debug/net6.0/123465.dll
+/Users/sadiksunbul/Projects/Csharp/123465/bin/Debug/net6.0/123465.pdb
+/Users/sadiksunbul/Projects/Csharp/123465/obj/Debug/net6.0/123465.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/Csharp/123465/obj/Debug/net6.0/123465.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/Csharp/123465/obj/Debug/net6.0/123465.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/Csharp/123465/obj/Debug/net6.0/123465.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/Csharp/123465/obj/Debug/net6.0/123465.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/Csharp/123465/obj/Debug/net6.0/123465.dll
+/Users/sadiksunbul/Projects/Csharp/123465/obj/Debug/net6.0/refint/123465.dll
+/Users/sadiksunbul/Projects/Csharp/123465/obj/Debug/net6.0/123465.pdb
+/Users/sadiksunbul/Projects/Csharp/123465/obj/Debug/net6.0/123465.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/Csharp/123465/obj/Debug/net6.0/ref/123465.dll

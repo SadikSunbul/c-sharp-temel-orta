@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/bin/Debug/net7.0/gencay_yıldız_virtual
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/bin/Debug/net7.0/gencay_yıldız_virtual.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/bin/Debug/net7.0/gencay_yıldız_virtual.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/bin/Debug/net7.0/gencay_yıldız_virtual.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/bin/Debug/net7.0/gencay_yıldız_virtual.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/obj/Debug/net7.0/gencay_yıldız_virtual.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/obj/Debug/net7.0/gencay_yıldız_virtual.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/obj/Debug/net7.0/gencay_yıldız_virtual.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/obj/Debug/net7.0/gencay_yıldız_virtual.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/obj/Debug/net7.0/gencay_yıldız_virtual.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/obj/Debug/net7.0/gencay_yıldız_virtual.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/obj/Debug/net7.0/refint/gencay_yıldız_virtual.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/obj/Debug/net7.0/gencay_yıldız_virtual.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/obj/Debug/net7.0/gencay_yıldız_virtual.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/gencay_yıldız_virtual/obj/Debug/net7.0/ref/gencay_yıldız_virtual.dll

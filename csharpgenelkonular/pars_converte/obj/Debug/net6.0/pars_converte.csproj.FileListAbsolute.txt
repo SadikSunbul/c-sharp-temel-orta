@@ -1,0 +1,30 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/bin/Debug/net6.0/pars_converte
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/bin/Debug/net6.0/pars_converte.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/bin/Debug/net6.0/pars_converte.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/bin/Debug/net6.0/pars_converte.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/bin/Debug/net6.0/pars_converte.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/obj/Debug/net6.0/pars_converte.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/obj/Debug/net6.0/pars_converte.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/obj/Debug/net6.0/pars_converte.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/obj/Debug/net6.0/pars_converte.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/obj/Debug/net6.0/pars_converte.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/obj/Debug/net6.0/pars_converte.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/obj/Debug/net6.0/refint/pars_converte.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/obj/Debug/net6.0/pars_converte.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/obj/Debug/net6.0/pars_converte.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/pars_converte/obj/Debug/net6.0/ref/pars_converte.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/bin/Debug/net6.0/pars_converte
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/bin/Debug/net6.0/pars_converte.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/bin/Debug/net6.0/pars_converte.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/bin/Debug/net6.0/pars_converte.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/bin/Debug/net6.0/pars_converte.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/obj/Debug/net6.0/pars_converte.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/obj/Debug/net6.0/pars_converte.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/obj/Debug/net6.0/pars_converte.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/obj/Debug/net6.0/pars_converte.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/obj/Debug/net6.0/pars_converte.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/obj/Debug/net6.0/pars_converte.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/obj/Debug/net6.0/refint/pars_converte.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/obj/Debug/net6.0/pars_converte.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/obj/Debug/net6.0/pars_converte.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/vs c#/pars_converte/obj/Debug/net6.0/ref/pars_converte.dll

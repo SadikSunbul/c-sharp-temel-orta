@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gençay_yıldız_class/1.0.0": {
+        "runtime": {
+          "gençay_yıldız_class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gençay_yıldız_class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

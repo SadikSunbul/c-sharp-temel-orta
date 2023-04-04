@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/bin/Debug/net6.0/asal_sayılarını_bulma
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/bin/Debug/net6.0/asal_sayılarını_bulma.deps.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/bin/Debug/net6.0/asal_sayılarını_bulma.runtimeconfig.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/bin/Debug/net6.0/asal_sayılarını_bulma.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/bin/Debug/net6.0/asal_sayılarını_bulma.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/obj/Debug/net6.0/asal_sayılarını_bulma.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/obj/Debug/net6.0/asal_sayılarını_bulma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/obj/Debug/net6.0/asal_sayılarını_bulma.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/obj/Debug/net6.0/asal_sayılarını_bulma.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/obj/Debug/net6.0/asal_sayılarını_bulma.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/obj/Debug/net6.0/asal_sayılarını_bulma.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/obj/Debug/net6.0/refint/asal_sayılarını_bulma.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/obj/Debug/net6.0/asal_sayılarını_bulma.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/obj/Debug/net6.0/asal_sayılarını_bulma.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/asal_sayılarını_bulma/obj/Debug/net6.0/ref/asal_sayılarını_bulma.dll

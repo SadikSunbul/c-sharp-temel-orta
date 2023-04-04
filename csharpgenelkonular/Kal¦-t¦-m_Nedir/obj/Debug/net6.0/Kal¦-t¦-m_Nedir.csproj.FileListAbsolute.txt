@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/bin/Debug/net6.0/Kalıtım_Nedir
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/bin/Debug/net6.0/Kalıtım_Nedir.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/bin/Debug/net6.0/Kalıtım_Nedir.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/bin/Debug/net6.0/Kalıtım_Nedir.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/bin/Debug/net6.0/Kalıtım_Nedir.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/obj/Debug/net6.0/Kalıtım_Nedir.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/obj/Debug/net6.0/Kalıtım_Nedir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/obj/Debug/net6.0/Kalıtım_Nedir.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/obj/Debug/net6.0/Kalıtım_Nedir.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/obj/Debug/net6.0/Kalıtım_Nedir.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/obj/Debug/net6.0/Kalıtım_Nedir.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/obj/Debug/net6.0/refint/Kalıtım_Nedir.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/obj/Debug/net6.0/Kalıtım_Nedir.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/obj/Debug/net6.0/Kalıtım_Nedir.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Nedir/obj/Debug/net6.0/ref/Kalıtım_Nedir.dll

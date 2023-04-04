@@ -1,0 +1,30 @@
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/obj/Debug/net6.0/konsol_uygulaması.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/obj/Debug/net6.0/refint/konsol_uygulaması.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/obj/Debug/net6.0/konsol_uygulaması.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/bin/Debug/net6.0/konsol_uygulaması
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/bin/Debug/net6.0/konsol_uygulaması.deps.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/bin/Debug/net6.0/konsol_uygulaması.runtimeconfig.json
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/bin/Debug/net6.0/konsol_uygulaması.dll
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/bin/Debug/net6.0/konsol_uygulaması.pdb
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/konsol_uygulaması/konsol_uygulaması/obj/Debug/net6.0/ref/konsol_uygulaması.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/bin/Debug/net6.0/konsol_uygulaması
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/bin/Debug/net6.0/konsol_uygulaması.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/bin/Debug/net6.0/konsol_uygulaması.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/bin/Debug/net6.0/konsol_uygulaması.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/bin/Debug/net6.0/konsol_uygulaması.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/obj/Debug/net6.0/konsol_uygulaması.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/obj/Debug/net6.0/refint/konsol_uygulaması.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/obj/Debug/net6.0/konsol_uygulaması.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/obj/Debug/net6.0/dizileriçerisineSayısalVerıAtama.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/konsol_uygulaması/obj/Debug/net6.0/ref/konsol_uygulaması.dll

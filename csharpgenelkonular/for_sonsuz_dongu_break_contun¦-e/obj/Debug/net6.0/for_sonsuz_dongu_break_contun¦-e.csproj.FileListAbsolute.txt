@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/bin/Debug/net6.0/for_sonsuz_dongu_break_contunıe
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/bin/Debug/net6.0/for_sonsuz_dongu_break_contunıe.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/bin/Debug/net6.0/for_sonsuz_dongu_break_contunıe.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/bin/Debug/net6.0/for_sonsuz_dongu_break_contunıe.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/bin/Debug/net6.0/for_sonsuz_dongu_break_contunıe.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/obj/Debug/net6.0/for_sonsuz_dongu_break_contunıe.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/obj/Debug/net6.0/for_sonsuz_dongu_break_contunıe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/obj/Debug/net6.0/for_sonsuz_dongu_break_contunıe.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/obj/Debug/net6.0/for_sonsuz_dongu_break_contunıe.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/obj/Debug/net6.0/for_sonsuz_dongu_break_contunıe.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/obj/Debug/net6.0/for_sonsuz_dongu_break_contunıe.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/obj/Debug/net6.0/refint/for_sonsuz_dongu_break_contunıe.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/obj/Debug/net6.0/for_sonsuz_dongu_break_contunıe.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/obj/Debug/net6.0/for_sonsuz_dongu_break_contunıe.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/for_sonsuz_dongu_break_contunıe/obj/Debug/net6.0/ref/for_sonsuz_dongu_break_contunıe.dll

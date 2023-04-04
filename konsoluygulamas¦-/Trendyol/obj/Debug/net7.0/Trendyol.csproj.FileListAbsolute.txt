@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/bin/Debug/net7.0/Trendyol
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/bin/Debug/net7.0/Trendyol.deps.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/bin/Debug/net7.0/Trendyol.runtimeconfig.json
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/bin/Debug/net7.0/Trendyol.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/bin/Debug/net7.0/Trendyol.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/obj/Debug/net7.0/Trendyol.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/obj/Debug/net7.0/Trendyol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/obj/Debug/net7.0/Trendyol.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/obj/Debug/net7.0/Trendyol.AssemblyInfo.cs
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/obj/Debug/net7.0/Trendyol.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/obj/Debug/net7.0/Trendyol.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/obj/Debug/net7.0/refint/Trendyol.dll
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/obj/Debug/net7.0/Trendyol.pdb
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/obj/Debug/net7.0/Trendyol.genruntimeconfig.cache
+/Users/sadiksunbul/Desktop/kodlama klasoru/c#/konsoluygulaması/Trendyol/obj/Debug/net7.0/ref/Trendyol.dll

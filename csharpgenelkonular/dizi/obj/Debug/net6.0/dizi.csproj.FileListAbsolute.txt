@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/bin/Debug/net6.0/dizi
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/bin/Debug/net6.0/dizi.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/bin/Debug/net6.0/dizi.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/bin/Debug/net6.0/dizi.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/bin/Debug/net6.0/dizi.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/obj/Debug/net6.0/dizi.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/obj/Debug/net6.0/dizi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/obj/Debug/net6.0/dizi.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/obj/Debug/net6.0/dizi.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/obj/Debug/net6.0/dizi.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/obj/Debug/net6.0/dizi.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/obj/Debug/net6.0/refint/dizi.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/obj/Debug/net6.0/dizi.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/obj/Debug/net6.0/dizi.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/dizi/obj/Debug/net6.0/ref/dizi.dll

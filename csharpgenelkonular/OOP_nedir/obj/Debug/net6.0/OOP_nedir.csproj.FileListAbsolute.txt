@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/obj/Debug/net6.0/OOP_nedir.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/obj/Debug/net6.0/OOP_nedir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/obj/Debug/net6.0/OOP_nedir.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/obj/Debug/net6.0/OOP_nedir.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/obj/Debug/net6.0/OOP_nedir.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/bin/Debug/net6.0/OOP_nedir
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/bin/Debug/net6.0/OOP_nedir.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/bin/Debug/net6.0/OOP_nedir.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/bin/Debug/net6.0/OOP_nedir.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/bin/Debug/net6.0/OOP_nedir.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/obj/Debug/net6.0/OOP_nedir.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/obj/Debug/net6.0/refint/OOP_nedir.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/obj/Debug/net6.0/OOP_nedir.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/obj/Debug/net6.0/OOP_nedir.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/OOP_nedir/obj/Debug/net6.0/ref/OOP_nedir.dll

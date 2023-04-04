@@ -1,0 +1,5 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/Queue_kolleksıyonu/obj/Debug/net6.0/Queue_kolleksıyonu.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Queue_kolleksıyonu/obj/Debug/net6.0/Queue_kolleksıyonu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/Queue_kolleksıyonu/obj/Debug/net6.0/Queue_kolleksıyonu.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Queue_kolleksıyonu/obj/Debug/net6.0/Queue_kolleksıyonu.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/Queue_kolleksıyonu/obj/Debug/net6.0/Queue_kolleksıyonu.csproj.CoreCompileInputs.cache

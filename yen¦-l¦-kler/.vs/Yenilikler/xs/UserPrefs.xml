@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3EBD8DB6-8215-455D-A6C0-242CE7F8C0BF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sadiksunbul/Desktop/kodlama klasoru/c#/yenılıkler/rekursiffonk/Program.cs" relfile="rekursiffonk/Program.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.delegate__nedir__d PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.rekursiffonk PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LİNQ_Nedir/Program.cs">
+    <Files>
+      <File FileName="LİNQ_Nedir/Program.cs" Line="1" Column="1" />
+      <File FileName="LİNQ_Nedir/dataSource.cs" />
+      <File FileName="LİNQ_Nedir/Müşteri.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Yenilikler" expanded="True">
+            <Node name="delegate_2.vıdeo" expanded="True" />
+            <Node name="delegate_nedir_d" expanded="True" />
+            <Node name="LİNQ_Nedir" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.gencay__yıldız__virtual PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Yenilikler PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

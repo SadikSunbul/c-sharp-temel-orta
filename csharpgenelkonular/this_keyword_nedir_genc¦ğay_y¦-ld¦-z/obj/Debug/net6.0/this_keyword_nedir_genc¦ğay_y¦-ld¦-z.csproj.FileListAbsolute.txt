@@ -1,0 +1,5 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/this_keyword_nedir_gençay_yıldız/obj/Debug/net6.0/this_keyword_nedir_gençay_yıldız.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/this_keyword_nedir_gençay_yıldız/obj/Debug/net6.0/this_keyword_nedir_gençay_yıldız.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/this_keyword_nedir_gençay_yıldız/obj/Debug/net6.0/this_keyword_nedir_gençay_yıldız.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/this_keyword_nedir_gençay_yıldız/obj/Debug/net6.0/this_keyword_nedir_gençay_yıldız.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/this_keyword_nedir_gençay_yıldız/obj/Debug/net6.0/this_keyword_nedir_gençay_yıldız.csproj.CoreCompileInputs.cache

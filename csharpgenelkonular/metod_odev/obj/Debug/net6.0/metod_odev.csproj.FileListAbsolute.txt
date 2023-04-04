@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/obj/Debug/net6.0/metod_odev.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/obj/Debug/net6.0/metod_odev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/obj/Debug/net6.0/metod_odev.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/obj/Debug/net6.0/metod_odev.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/obj/Debug/net6.0/metod_odev.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/bin/Debug/net6.0/metod_odev
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/bin/Debug/net6.0/metod_odev.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/bin/Debug/net6.0/metod_odev.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/bin/Debug/net6.0/metod_odev.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/bin/Debug/net6.0/metod_odev.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/obj/Debug/net6.0/metod_odev.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/obj/Debug/net6.0/refint/metod_odev.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/obj/Debug/net6.0/metod_odev.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/obj/Debug/net6.0/metod_odev.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/metod_odev/obj/Debug/net6.0/ref/metod_odev.dll

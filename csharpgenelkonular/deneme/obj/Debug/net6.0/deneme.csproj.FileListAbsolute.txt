@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/bin/Debug/net6.0/deneme
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/bin/Debug/net6.0/deneme.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/bin/Debug/net6.0/deneme.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/bin/Debug/net6.0/deneme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/bin/Debug/net6.0/deneme.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/obj/Debug/net6.0/deneme.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/obj/Debug/net6.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/obj/Debug/net6.0/deneme.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/obj/Debug/net6.0/deneme.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/obj/Debug/net6.0/deneme.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/obj/Debug/net6.0/deneme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/obj/Debug/net6.0/refint/deneme.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/obj/Debug/net6.0/deneme.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/obj/Debug/net6.0/deneme.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/deneme/obj/Debug/net6.0/ref/deneme.dll

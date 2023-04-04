@@ -1,0 +1,15 @@
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/bin/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/bin/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.deps.json
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/bin/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.runtimeconfig.json
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/bin/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/bin/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/obj/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.csproj.AssemblyReference.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/obj/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/obj/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.AssemblyInfoInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/obj/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.AssemblyInfo.cs
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/obj/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.csproj.CoreCompileInputs.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/obj/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/obj/Debug/net6.0/refint/Kalıtım_Bolum_Sonu_Odevi.dll
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/obj/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.pdb
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/obj/Debug/net6.0/Kalıtım_Bolum_Sonu_Odevi.genruntimeconfig.cache
+/Users/sadiksunbul/Projects/udemıy_csharp/Kalıtım_Bolum_Sonu_Odevi/obj/Debug/net6.0/ref/Kalıtım_Bolum_Sonu_Odevi.dll
